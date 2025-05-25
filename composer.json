@@ -1,0 +1,29 @@
+{
+	"name": "florianziegler/websub",
+	"description": "Inform a WebSub server about new or updated posts.",
+	"version": "0.0.1",
+	"type": "kirby-plugin",
+	"homepage": "https://github.com/florianziegler/websub",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Florian Ziegler",
+			"email": "florian@haptiq.studio"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/florianziegler/kirby-websub/issues",
+		"source": "https://github.com/florianziegler/kirby-websub",
+		"docs": "https://github.com/florianziegler/websub"
+	},
+	"keywords": [
+		"php",
+		"kirby",
+		"plugin",
+		"kirby-plugin",
+		"kirby-cms",
+		"WebSub",
+		"Indieweb",
+		"feed"
+	]
+}
