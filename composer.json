@@ -1,7 +1,7 @@
 {
 	"name": "florianziegler/websub",
 	"description": "Inform a WebSub server about new or updated posts.",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"type": "kirby-plugin",
 	"homepage": "https://github.com/florianziegler/websub",
 	"license": "MIT",
