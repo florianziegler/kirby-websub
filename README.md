@@ -1,6 +1,6 @@
 # WebSub – Plugin for Kirby
 
-**A very simple [Kirby](https://getkirby.com) plugin to inform a WebSub server about new or updated posts**
+**A very simple [Kirby](https://getkirby.com) plugin to inform a WebSub server about new or updated posts.**
 
 Learn more about [WebSub on indieweb.org](https://indieweb.org/WebSub).
 
@@ -18,7 +18,7 @@ Configure with the following options:
 
 ### WebSub Server URL
 
-Set your WebSub bub server. [Here's a list](https://indieweb.org/WebSub#Hubs).
+Set your WebSub hub server. [Here's a list](https://indieweb.org/WebSub#Hubs).
 
 ```php
 'florianziegler.websub.hubUrl' => 'https://pubsubhubbub.superfeedr.com/',
