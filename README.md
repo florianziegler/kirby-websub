@@ -2,7 +2,9 @@
 
 **A very simple [Kirby](https://getkirby.com) plugin to inform a WebSub server about new or updated posts.**
 
-Learn more about [WebSub on indieweb.org](https://indieweb.org/WebSub).
+![WebSub Kirby plugin](/.github/kirby-websub-banner.jpg)
+
+Learn more about [WebSub at indieweb.org](https://indieweb.org/WebSub).
 
 ---
 
